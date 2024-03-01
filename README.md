@@ -31,7 +31,8 @@ Esse é o meu projeto
     ```
 Kit inicial de projeto de dados
 Sobre o Projeto
-Este repositório é uma parte integrante do workshop "Como estruturar um projeto de dados do Zero". O objetivo aqui é fornecer uma base e uma estrutura padronizada para iniciar projetos de engenharia, ciência e análise de dados. O foco principal é em boas práticas, automação, testes e documentação. Tera um novo no dia 29/01
+Este repositório é uma parte integrante do workshop "Como estruturar um projeto de dados do Zero". O objetivo aqui é fornecer uma base e uma estrutura padronizada para iniciar projetos de engenharia, 
+ciência e análise de dados. O foco principal é em boas práticas, automação, testes e documentação. Tera um novo no dia 29/01
 
 Objetivos do Workshop:
 Entender a estrutura padrão de projetos : Isso inclui a organização de diretórios, como o código-fonte, testes, documentos, entre outros.
