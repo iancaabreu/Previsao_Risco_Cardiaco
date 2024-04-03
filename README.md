@@ -1,4 +1,4 @@
-## Risco Cardíaco 
+## Previsão de Risco Cardíaco 
 
 Esse projeto foi realizado em sala de aula, no último semestre do Curso de Ciência de Dados. 
 Foi ultilizado o algoritimo KNN (K-Nearest Neighbors) é um algoritmo de aprendizado de máquina supervisionado usado para classificação e regressão. 
