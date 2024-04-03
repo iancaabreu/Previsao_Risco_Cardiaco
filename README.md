@@ -14,12 +14,12 @@ Colunas:
        'Horas_Sono_Dia', 'Risco'].
        
 - Foram removidas as colunas ID e Risco.
-- Para Target foi usadi a coluna Risco
+- Para Target foi usado a coluna Risco
 - Possui 4.000 linhas
 - 65.8% de pessoas que possuem risco cardíaco, equivalente a 2632.0 linhas.
 - 34.2% de pessoas que não possuem risco cardíaco, equivalente a 1368.0 linhas.
-  <br>
-- Foi gerado alguns gráficos para análise.
+  
+- Foram gerados alguns gráficos para análises.
 - Matriz de Correlação: 
  ![image](https://github.com/iancaabreu/Projeto-1/assets/102169504/29ae9f7a-12d4-4b88-9271-e675c528124d)
 - Gráfico de Histograma:
