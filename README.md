@@ -6,7 +6,8 @@ Foi ultilizado o algoritimo KNN (K-Nearest Neighbors) é um algoritmo de aprendi
 
 ## Base de Dados
 (Dados Fictícios)
-Colunas:
+
+- Colunas:
 (['ID', 'Idade', 'Peso', 'Altura', 'Pressao_Sistolica',
        'Pressao_Diastolica', 'Nivel_Glicose', 'Tempo_Exercicio_Semanal',
        'Consumo_Alcool_Semanal', 'Contagem_Globulos_Brancos',
